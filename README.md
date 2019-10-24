@@ -1,7 +1,9 @@
-# Wazihub_Soil_Moisture_Prediction
+# Wazihub Soil Moisture Prediction
+
 
 ## Goal
 >  The objective of this challenge is to accurately predict the soil moisture level multiple days in advance. This solution will help farmers prepare their irrigation schedules more efficiently.
+
 
 ## Dataset Description
 
